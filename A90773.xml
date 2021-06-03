@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A plea for the Parliament, or, Considerations for the satisfaction of such, who are apt to be mis-led by the malignant party against the Parliament, with a palpable and evident declaration of their chiefest designes therein.</title>
+         </titleStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90773</idno><idno type="EEBO-CITATION">99864013</idno>
+  <idno type="VID">116231</idno>
+  <idno type="EEBO-PROQUEST">2240904052</idno>
+  
+            <idno type="STC">Wing P2522</idno>
+            <idno type="STC">Thomason E152_11</idno>
+            <idno type="STC">ESTC R20453</idno>
+            <idno type="PROQUEST">99864013</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864013e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90773)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116231)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E152[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A plea for the Parliament, or, Considerations for the satisfaction of such, who are apt to be mis-led by the malignant party against the Parliament, with a palpable and evident declaration of their chiefest designes therein.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeere, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page has printer's device (McK. 284).</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116231:1"/>
+            <pb facs="tcp:116231:1"/>
+            <p>A PLEA FOR THE PARLIAMENT, OR, CONSIDERATIONS FOR The satisfaction of such, who are apt to be mis-led by a Malignant Party against the <hi>PARLIAMENT,</hi> With a palpable and evident Declaration of their chiefest Designes therein.</p>
+            <figure>
+               <figDesc>insignia</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed in the yeere, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:116231:2"/>
+            <pb n="3" facs="tcp:116231:2"/>
+            <head>
+               <hi>A PLEA for the PARLIAMENT, OR, CONSIDERATIONS</hi> for the satisfaction of such, who are apt to be mis-led by a <hi>Malignant party</hi> against the <hi>PARLIAMENT,</hi> with a palpable and evident Declaration of their chiefest designes therein.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Orasmuch as it appeares, that a malignant party hath endeavoured to raise up strength and to take up Armes against the <hi>Parliament,</hi> consisting of the King Lords and Commons of the land, and to increase their number by many and false reproachfull calumnies cast upon them, suggesting unto people many dis-joynted and invalid positions to ensnare the minds of men, and although by the late Remonstrances there is sufficient satisfaction given to every ju<g ref="char:EOLhyphen"/>dicious and intelligent Reader; yet forasmuch as these Remonstrances are many in number, and each of them relating to some particular oc<g ref="char:EOLhyphen"/>currences or other preceding, some people having seen them all, others but some of them, and others none at all; and for as much as many almost in all places, both in pulpits, discourses, and otherwayes, (friends to the Popish party) have and do daily endeavour to stir up a most ingratefull and unworthy disrespect unto the <hi>Parliament,</hi> who may once learne bet<g ref="char:EOLhyphen"/>ter, when better taught by the <hi>Parliaments</hi> lash. There are therefore these considerations presenting themselves to every mans view, being almost nothing but what is obvious to every mans knowledge, and for the most part evident in all the late Remonstrances.</p>
+            <p>First, that men would consider, when it pleased God after many Prayers and Petitions of the people to grant this <hi>Parliament,</hi> what were the complaints of the whole Kingdome in matters both of Church and State, and the miserable oppressions of mens consciences and properties.</p>
+            <p>Secondly, consider what the <hi>Parliament</hi> hath done with great difficul<g ref="char:EOLhyphen"/>ties to accommodate the desires of the people in this behalfe, in suppres<g ref="char:EOLhyphen"/>sing the power of tyrants over mens consciences. Sin taking away all of<g ref="char:EOLhyphen"/>fensive and superstitious innovations in granting liberty to all parishes to choose Lecturers, in opening the mouthes of our godly Ministers, in taking away the power of oppressing and tyrannicall Courts of Lordly
+<pb n="4" facs="tcp:116231:3"/> Prelates in choosing a learned assembly of many godly and able Mini<g ref="char:EOLhyphen"/>sters for the settling of mens judgements, and the healing of the many divisions and unsound opinions amongst us in matters of Religion; and for mens properties how some delinquents this way have bin punished, and others detected evill Ministers of Justice (by whom righteous and just causes have miscarried to the undoing of many p<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> widdowes, fatherlesse and others, are partly removed, and in a faire way of recei<g ref="char:EOLhyphen"/>ving their demerits; <hi>hip-mone<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>t</hi> and <hi>Con<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>-moneys <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ents</hi> almost for every thing to the daily draining and oppressing of the subject) are all taken away; and consider also whether any one thing hath beene translated or proportion made by them, which doth not <hi>in tuitu proprio,</hi> loooke at the future peace and good of the Kingdome.</p>
+            <p>Thirdly consider, whether if this present <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arliament</hi> should unhappily be discountenanced discouraged or dissolved (which God forbid) we should ever have the like, or any; or if by vertue of the act for the <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>
+                  <gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ani<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll Parliament</hi> there should be another whether any man bearing good will to the Common-wealth being chosen, would be encouraged there<g ref="char:EOLhyphen"/>unto and so either wee should have none at all or if any, such an one which instead of a remedy should be an inlet of all misery into the Land.</p>
+            <p>Fourthly, consider how Kingdomes abroad in the world are governed without <hi>Parliaments,</hi> where <hi>Voluntas regis</hi> is <hi>Lex populi,</hi> the pleasure of the King is the rule of the Kingdome, and the precipitancie of this King<g ref="char:EOLhyphen"/>dome also before this <hi>Parliament,</hi> into all oppression and miserie through the deceitfull suggestions and insinuations of wicked Counsell about his Majestie; and whether we are not looked upon as the envie of other kingdomes by vertue of this onely inheritance of ours.</p>
+            <p>Fifthly, consider into what misery, blood and distraction, wee had plunged our selves two yeeres since (The two nations of <hi>England</hi> and <hi>Sc<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tland,</hi> imbruing themselves, and weltring in one anothers blood) had not the wisdome of the <hi>Parliament</hi> then present (consisting for the most part of the same Members as this doth) denyed the levying of moneyes for the main aming of that warre which should for ever make us thank<g ref="char:EOLhyphen"/>full for and mindefull of a <hi>Parliament</hi> benefit.</p>
+            <p>Sixthly, consider that whereas the <hi>Protestant</hi> Profession and the sub<g ref="char:EOLhyphen"/>jects liberty, is pretended in all things; what good intent either can or could here be to the one or to the other, either in those former differen<g ref="char:EOLhyphen"/>ces between us and our brethen, the <hi>Scots,</hi> or the present divisions in this Kingdome when <hi>Papists</hi> and popish persons were then the chiefe Com<g ref="char:EOLhyphen"/>manders (for the most part) in the <hi>English</hi> Armies and <hi>Papists</hi> now and Popish persons and <hi>Atheists</hi> whose continuall assertions are wounds and blood and God damne me or heavens damne me, if wee be not reven<g ref="char:EOLhyphen"/>ged upon these round-heads (a nick-name questionlesse, originally
+<pb n="5" facs="tcp:116231:3"/> sprung up from some block-head, having neither wit nor reason in it) these are the maine abettors, provokers, projectors and actors in these divisions, whether these aime at the <hi>Protestant</hi> Religion, whatever they call the <hi>Protestant</hi> Profession except it be <hi>Poper;</hi> in all things, supremacy onely excepted, or the subjects libertie, let every man of the meanest capacity judge.</p>
+            <p>Seaventhly consider what tampering there hath beene this two or three yeares to raise up civill Warrs amongst us in the three Kingdoms, First between Us and the <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> then, that now so rife in <hi>Ireland,</hi> and a<g ref="char:EOLhyphen"/>mongst us divers times, as when the Army in the <hi>North</hi> was plotted to be brought up against the <hi>Parliament,</hi> and of late the bold peremptory and unparalleld contempt and reproach cast upon the House of Com<g ref="char:EOLhyphen"/>mons by those unworthy Cavileers which accompanyed his Majestie to the House of Commons at the accusation of the five Members, their cruelly abusing cutting and mangling of the Citizens, their endeavour to raise up a party at <hi>Kingston</hi> upon <hi>Thames.</hi> and now also to do the like in the <hi>North,</hi> all tending to Civill Warres and mutinies amongst us, and whether the same spirit which worketh so hott in <hi>Ireland,</hi> hath no factors in <hi>Scotland,</hi> and amongst us in <hi>England,</hi> let all men that have the right facultie of discerning judge, and whether they that endeavour to raise up Civill Warrs in a Kingdome can ayme at the good of that Kingdome let every man that hath not lost the use of reason determine.</p>
+            <p>Eightly, consider what unheard of miserie, barbarous crueltie savage inhumanitie is exercised upon the poore Protestant party in <hi>Ireland,</hi> by that bloody Popish Partie and how far those that endeavour to make a partie against the Parliament, are acted by the same designes, let those judge &amp; consider who either have or will read the <hi>Irish</hi> Remonstrance, and observe how these distractions at home (occasioned by the unhappy divisions and distance of his Majestie through wicked Counsell from his Parliament) encourage the Rebells and hinder the Protestant cause there, whereas a happy concurrence between the King and Parliament might in an ordinary way through Gods mercy have subdued those wicked Rebells long sithence</p>
+            <p>Ninthly consider what reproach, scandall and scorne we shall bring upon our whole nation and posterity for ever if we should c<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e a Par<g ref="char:EOLhyphen"/>liament and because they will not suffer us to be made slaves even for their faithfulnesse and love unto us (when happily their own particular safety and personall Preferment might be better advantaged if they should desert us) if for this we should rise up against them and contend strive and fight for an Iron yoak of perpetuall bondage and miserie, and whether God may not in displeasure and justice, give us up hereunto, who shall so lightly esteeme and so sottishly improve that opportunitie, which (long look'd for) he hath now put into our hands; and if our po<g ref="char:EOLhyphen"/>sterity
+<pb n="6" facs="tcp:116231:4"/> will not curs the time that ever it entred into our hearts so to do.</p>
+            <p>Tenthly, consider how it can stand with our <hi>Protestation,</hi> to take up Arms against the whole body of the Kingdom, represented in the Parli<g ref="char:EOLhyphen"/>ament and the Laws of the Land, which wee are all bound by oath to stand to, to the utmost of our lives, liberties and estates &amp; wherin the ho<g ref="char:EOLhyphen"/>nour and preservation both of King and Kingdome doth consist, and which of those do breake their oath, either those that pretending the Kings Prerogative take up Arms against the whole Kingdom represen<g ref="char:EOLhyphen"/>ted in the Parliament: or those that shall endeavour to suppresse such a malignant party. The King himselfe having alwaies protested, that for his part (taking God to witnesse) he desireth nothing more then the peace and prosperity of Religion and Kingdom.</p>
+            <p>Eleventhly, consider whereas lawes and statutes are pretended, as if the Parliament should do many things illegally, even against the King with this suggestion, that then its high time for the subjects to looke to their properties and liberties, whether are to be believed, what is law: ei<g ref="char:EOLhyphen"/>ther that partie that shall affirme this, or that to be law and will not ap<g ref="char:EOLhyphen"/>peare to maintaine their assertions (the King professing himselfe to be no lawyer, and therefore his affirmations are nothing else but the misin<g ref="char:EOLhyphen"/>formations of others) or the Parliament, the makers of new, and inter<g ref="char:EOLhyphen"/>preters of the old laws, who have all the Judges and chiefest Lawyers in the Land to advise withall, taking this with us, that <hi>Salus Populi est Suprema lex?</hi> And whether both the law of the Land and the good of the subject was not pretended in all the patenti granted, as appeares in the severall Proclamations for the same purpose, yea, and in all the high commission and Starre chamber Courts, (for it had been as much as a mans eares, libertie and estate had beene worth, to have affirmed the contrary) and if it were so, let the whole Kingdome judge.</p>
+            <p>Twelfly, consider whether that all the wholsome Lawes Benefits and Liberties of the subject this day have not beene the birth and fruits of <hi>Parliaments</hi> and whether the <hi>Parliament</hi> hath not alwaies been the sanctu<g ref="char:EOLhyphen"/>ary and refuge for all that have beene unjustly oppressed and abused, and what remedy could be had by any other appeales whatsoever, when through the wickednes of evill Ministers of Justice, the strength of a mans purse, rather then the righteousnesse of his cause, hath alwaies been the <hi>b<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>num om<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> the certaine promising token of good successe: consider therefore, whether we shall not go about to stop, yea to dry up all the springs of our legall Priviledges, having such long and happy experiences of the benefits thereof, and whether it ever entred into the heart of any of our Predecessors excepting the <hi>Papists,</hi> to do the least in<g ref="char:EOLhyphen"/>jury to Parliaments.</p>
+            <p>Whereas it is objected against the Parliament, that they are furious, seditious, malicious against the King and his Royall care, that under
+<pb n="6" facs="tcp:116231:4"/> other pretences of dangers of farraine and domesticke enemies, they take up Armes against the King, that they endeavour to destroy the Lawes of the Land, and Religion amongst us: consider whether that these, and greater then these aspersions, were not cast upon our bre<g ref="char:EOLhyphen"/>thren, the <hi>Scots,</hi> the odious names of Traytors, Rebels, Factious. Se<g ref="char:EOLhyphen"/>ditious, &amp;c. were cast upon them, it had beene almost death for any man to have affirmed the contrary; and yet when things came legally to be debated, all proved otherwise, and his Majesty himselfe did ac<g ref="char:EOLhyphen"/>knowledge the contrary; and there is no question but (those wicked incendiares betweene his Majestie and his <hi>Parliament,</hi> being once re<g ref="char:EOLhyphen"/>moved) there will be a cleare and mutuall apprehension and right un<g ref="char:EOLhyphen"/>derstanding betweene his Majesty and his <hi>Parliament,</hi> to the mutuall joy and comfort, both of his Majesty and his well affected Subjects in the three Kingdomes, and consider whether it is not to be doubted, that the same fire-brands of combustion amongst us now, be not those that were formerly between us and our neigbour Nation, and whether they be not in the same designes of confusion of both Nations still, alter<g ref="char:EOLhyphen"/>ing onely the method; beginning in <hi>England</hi> now, with hopes to end in <hi>Scotland,</hi> whereas they formerly begun there, with purposes to end here.</p>
+            <p>Thirteenthly, consider, that whereas many inconsiderately and others maliciously suggest thus against the <hi>Parliament,</hi> that their reme<g ref="char:EOLhyphen"/>dy is worse then their disease, for they are eased of their taxations of shillings by Impositions of pounds, subsidie upon subsidie, pole-mony, monies adventured, monies lent, &amp;c. But let such consider, that the disease being mortall, the cure may be the more smarting, yet the more salutiferous; and they are not alwayes the worst <hi>Phisi<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ians</hi> that advise often <hi>phlebotomie,</hi> or <hi>blood-letting</hi> for a desperate disease, the veines may fill againe, when the heart is whole, which sincking, the man dies, when the veines are full.</p>
+            <p>It is true, much hath beene done this way, but God is not behind hand with us, we have had our pennyworths for our penny already;<note place="margin">Witnes the Remon<g ref="char:EOLhyphen"/>strāce of the State of the Kingdome set forth by both Hou<g ref="char:EOLhyphen"/>ses, the 15. of <hi>Decemb.</hi> 1641. page 16.</note> that which the <hi>Parliament</hi> hath done (through Gods mercies) menti<g ref="char:EOLhyphen"/>oned in the second Consideration is worth more than our costs and charges; Moreover, it is not unknowne, that the very <hi>Ship-money</hi> did cost the Kingdome above two hundred thousand pounds a yeere, <hi>Coat</hi> and <hi>Conduct Money,</hi> and other <hi>Millitary</hi> charges, little lesse than that, few of the <hi>Monopolies</hi> did prejudice the Subjects above a million yeerely, the <hi>Soape</hi> a hundred thousand pounds, the <hi>Wine</hi> three hundred thousand pounds, the <hi>Leather</hi> could be little lesse then both, the <hi>Salt</hi> could be no lesse then that; all these, with many other inferiour <hi>Monopolies</hi> are taken away, and because that with the same shew of Law, Justice and Rea<g ref="char:EOLhyphen"/>son, the Subjects might have beene drained to the utmost penny that they were worth, these procuring the chiefest places and offices, who
+<pb n="7" facs="tcp:116231:5"/> were most cunning in devising new designes of oppressing the subjects, therfore the roote of all these wrongs (which is more beneficiall then all the rest) which was an arbitrary power pretended to be in his Majesty, of taxing the subject and charging their estates without consent of <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arli<g ref="char:EOLhyphen"/>ament</hi> is now declared to be against law by both houses and likewise by an act of <hi>Parliament</hi> consider also that these present taxations are but for the present, and in a legall way and nothing so great as the former: and for the recovering of poore bleeding <hi>Ireland;</hi> and the saving of this sha<g ref="char:EOLhyphen"/>king and staggering Kingdom from ruine and destruction</p>
+            <p>And when men have parted with so much as they would once have given to be freed from the High Commission Rods, and Star<g ref="char:EOLhyphen"/>chamber lash being under them, (as every man might expect to have been) for that which neither Gods nor mans Law calls sinne, nay when men have given as much as they would to be freed from slavery, as much as the poore <hi>
+                  <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ish</hi> Protestants would give to be freed from the cruelty of those bloodhound Papists, nay asmuch as their wives children, estates lives, Gospell is worth (for all lies bleeding) let them then com<g ref="char:EOLhyphen"/>plaine of their hard bargaine and not before: And as for those wicked slanderers of that faithfull assembly, who cannot indure to think that o<g ref="char:EOLhyphen"/>thers would deale more honestly then themselves in the like trust, that give out as if they would convert the publique stock for their personall gaine, a cleare and just accompt being given herein to the whole King<g ref="char:EOLhyphen"/>dom, it is to be hoped, that such shall be made publique examples for such publique slanders.</p>
+            <p>Lastly, consider whether (amongst others) there be not a three fold ground of the proceedings against the <hi>Parliament</hi> according to the three fold condition of the chiefe actors in these divisions, who are <hi>Papists,</hi> depending Gentlemen, preferred to high places and offices, whose poli<g ref="char:EOLhyphen"/>cy rather then honesty, hath been their rise hereunto, and desperate Ca<g ref="char:EOLhyphen"/>viliers, whose good husbandry it is to put all upon their backs and shift for their bellies.</p>
+            <p>FIrst, the <hi>Papists</hi> see now and well perceive, that the <hi>Parliament</hi> making progresse according to their beginnings will take away the least hopes of ever establishing that <hi>Antichristian</hi> Religion here amongst us: yea, and take away the very ground worke of future <hi>Plots</hi> and <hi>Projects</hi> this way: and therefore it stands them now upon, <hi>Summo labore</hi> with all might and maine to adventure upon any designe, (though never so des<g ref="char:EOLhyphen"/>perate) and to give out themselves in their estates lives and livelyhoods, <hi>us{que} ad extremum,</hi> to the utmost that they can, and therefore now though <hi>Iesuites,</hi> should be hang'd by the halfe dozens, they will adventure, for now or never must the <hi>Pope</hi> up or downe in this Kingdome, and he would not willingly loose his hopes here, though a thousand of his
+<pb n="9" facs="tcp:116231:5"/>
+               <hi>Iesuites</hi> should hang for it, for indeed if men would receive it, that is the quarrell in the land, whether <hi>Michael</hi> or the <hi>Dragon, Christ</hi> or the Pope shall get safest footing in this Island, and let any seeing man look back upon all for<g ref="char:EOLhyphen"/>mer proceedings, and consider, who hath beene prefer<g ref="char:EOLhyphen"/>red to the highest places in the Church? what their carriage hath been therein? how the Preaching of the Word (the con<g ref="char:EOLhyphen"/>founding weapon of Antichrist) hath been supprest? what su<g ref="char:EOLhyphen"/>perstitious innovations hath been introduced; who have been promoted into the chiefest places in the Vniversities, what pro<g ref="char:EOLhyphen"/>portion there hath been with the Masse-houses, in candlesticks; tapers, coaps, blasphemous pictures of God &amp; the holy Trinity, crucifixes, crosses, &amp;c. first in the Bishops Chappells, then in all the Cathedralls of the Kingdome, then by little and little in every Parish; Again, What hath been their proceedings at their Commission courts? and what their plot was in their cursed late <hi>Canons,</hi> and the <hi>Et c<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tera</hi> Oath? and then let him give his Judgement in the point, whether Popery hath not been the marke they aymed at?</p>
+            <p>Secondly, for the depending Gentlemen, advanced to high places and Offices, whose aims will hold proportion with that of Cardinall <hi>Woolsey (for me and my King)</hi> making his Maiestie but the Priest, and scarce paying his tithes out of all their pre<g ref="char:EOLhyphen"/>tendings, their Masters profit, whose veines are full of the blood of the Fatherlesse and the W<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dows, and whose houses are built with the ruines of poore innocents, who regard more the bles<g ref="char:EOLhyphen"/>sings and favours of men, then the curses of the Almightie for the<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r oppression and crueltie, these also know, and well per<g ref="char:EOLhyphen"/>ceive now, that if the Parliament proceed according to their beginnings, they shall not only be exposed to the Justice of their former demerits, but also loose the least hopes of any fu<g ref="char:EOLhyphen"/>ture favour or practise, because conscious to themselves of an utter impossibility in them <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ever of becomming honest men, who from their first beginnings of preferment, have cashiered out of their thoughts the feare of God, a good conscience, and the day of Judgement; and therefore they must either run be<g ref="char:EOLhyphen"/>yond seas, betake themselves to some mean condition or other, (for the Parliament they'le have none but iust men, whose pro<g ref="char:EOLhyphen"/>ceedings
+<pb n="10" facs="tcp:116231:6"/> in all their Ministrations must be by the rule of Justice and a good conscience, which is unto them a paradox) or else they must give out their utmost endeavours to the rooting up of this Parliament.</p>
+            <p>Thirdly the Cavaleers, whose lands, houses, revenues and estates are above in the Ayre; who make great brags of the dan<g ref="char:EOLhyphen"/>gerous attempts they have adventured by sea and land; whose greatest danger of drowning hath been in an Ale-tub or Wine<g ref="char:EOLhyphen"/>tubbs, or of smothering by the smoake of Tobacco; yet they know that it is good fishing in troubled waters, and that <hi>Eng<g ref="char:EOLhyphen"/>land</hi> is full of brave Booties, therefore they bestir themselves, and have scarce the patience to forbeare their prey till oppor<g ref="char:EOLhyphen"/>tunity serves their turne, who are all for the present; and as for the other world, they have past the dreadfull sentence against themselves, which is <hi>(horesco referens)</hi> God damne me; These three sorts are the leaders and provokers of a partie against the Parliament, and incendiaries between His Maiestie and them: Let the whole world of indifferent men iudge and see, if these be not the Parties, and whether these be not their grounds, and yet these are the men looked upon, as the only Loyall Subiects, and others as Malignant unto the honour, peace and prosperity of the King and his Royall race; Whereas they can give no Testimony of their respects unto his Maiestie, but by such cour<g ref="char:EOLhyphen"/>ses, practises and counsells, which alienateth affections between him and his best Subiects, wherein consists his honour and strength, who are willing to give out their hearts and hands, purses and estates, prayers and teares in his behalfe; and the God of all knowledge shall one day iudge and discover, whose heats have been most loyall to our dread Soveraigne, either of the one or the other.</p>
+            <p>As for those Noble men whose absence from the Parliament is an encouragement unto this Malignant partie, if they come under the two first rancks of Popish, or dependent men; there is no more to be said but this: Their gathering toge<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her, and appearing in such courses, is a pregnant testimony and iustifica<g ref="char:EOLhyphen"/>tion of what hath been said of those two sorts, namely; That their designe is, <hi>Summo Conatu,</hi> to root up the Parliament least the Parliament should root up them; but if there be any not un<g ref="char:EOLhyphen"/>der
+<pb n="11" facs="tcp:116231:6"/> these rancks, certainly either their ingenuitie is to labour for pacification, and a happy making up of that Breach be<g ref="char:EOLhyphen"/>tween his Maiesty and his Parliament, or else their Nobility is <hi>mero titulo,</hi> ittle Noble blood runs in their veines, and Heathens themselves may throw stones at them, whose progenitors have been rendered famous by their heroick acts for their Coun<g ref="char:EOLhyphen"/>tries care.</p>
+            <div type="conclusion">
+               <head>From all these Considerations, this may be well inferred.</head>
+               <p>THat if ever wee would improve our selves, for God, the King, the Kingdome, lives, lawes and liberties, our selves and poore posteritie, if we would not see our flourishing Ci<g ref="char:EOLhyphen"/>ties made ruinous heapes, our peace and plenty turned into blood and Famine, our dearest Wives ravish'd and ript up be<g ref="char:EOLhyphen"/>fore our faces, our tender childrens braines dash'd against the stones, our mutuall trading turned into violence and Robbery, our sweet enioyments of all relations unto murders, rapes, cru<g ref="char:EOLhyphen"/>elties upon them all, If in a word we would not have the line of <hi>Germany</hi> and <hi>Ireland,</hi> to be stretch'd over our good Land; If we have any love to the Gospel of life and salvation, that the Arke of God may not depart, and misery come in upon us, as we would not be exposed to the power and mercies of the bloody Papists, the badge of whose Arch-leader (the Devills first-borne) the Pope, his garments made red with the blood of the Saints, Let every man in his station study peace and union, and endeavor all meanes of pacification, abhorring the very thoughts of ever taking up Armes against either King or Par<g ref="char:EOLhyphen"/>liament, but to the utmost of our powers, setting our selves a<g ref="char:EOLhyphen"/>gainst the incendiaries between them both, that the peace of God, and the God of peace may still rule in the midst of us, that we render not out selves <hi>Ludibrium gentium,</hi> the mockingstock of nations, by doing that our selves, which the malice, power and policy of all our adversaries abroad, and enemies at home, by all these fourscore yeers endeavors could never effect, wher<g ref="char:EOLhyphen"/>by we shall expose the poore Protestant bleeding and panting cause in <hi>Ireland</hi> to destruction, and revive the hopes, yea and
+<pb n="12" facs="tcp:116231:7"/> the power of out former oppressors (who if they once get by againe, wil teare us in pieces, like lyons long kept from their prey) and our ruine shall be unto after ages, the everlasting shamefull monuments of our blindnes and folly; that we should rise up like unnaturall Children, and cut the throate of our owne mother Nation; That wee should love bond<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge rather then li<g ref="char:EOLhyphen"/>bertie, all nations Countries and peoples, Papists, Jewes, Turks, Infidells, Devills (if I may say so) will sport at our misery: When God would deliver us, and hath delivered us from all their plots and projects, when in many plots they have had the neck of the whole Kingdome, as of one man, upon the brook, and as easy it had been utterly to destroy it, had not the Al<g ref="char:EOLhyphen"/>mighty by a high hand of love and mercie prevented it? and shall wee betray our selves, then? shall the cloud of blood which hath been a long time impending over our heads, be disburdened upon us, and our reeling, staggering and tottering Kingdome, shall fall, and fall, and none shall helpe it up. It now pants for life and breath, travailing with the peace, plentie, se<g ref="char:EOLhyphen"/>curitie, Religion, Lawes, liberties and comforts thereof; and those Worthies who d<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y by day give their utmost and unwea<g ref="char:EOLhyphen"/>ried attendance and assistance to further the birth, the strong God shall be unto them their front-guard, and rere-ward, good<g ref="char:EOLhyphen"/>nesse, power and mercie unto them, and their ammunition of rocks: and his displeasure the certain ruin<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and destruction of those, who unhappily, weakely and wickedly have brought it upon themselves.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
